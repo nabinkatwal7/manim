@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/media/videos/test/480p15/partial_movie_files/AnimatedSquareToCircle/1584795214_513577100_223132457.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/media/videos/test/480p15/partial_movie_files/AnimatedSquareToCircle/4072820271_116325620_557880437.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/media/videos/test/480p15/partial_movie_files/AnimatedSquareToCircle/4072820271_824160909_557880437.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/media/videos/test/480p15/partial_movie_files/AnimatedSquareToCircle/4072820271_3208258221_557880437.mp4'
