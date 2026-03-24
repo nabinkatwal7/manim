@@ -151,5 +151,6 @@ dmypy.json
 # For manim
 /videos
 /custom_config.yml
+**/media
 /media
 CLAUDE.md
