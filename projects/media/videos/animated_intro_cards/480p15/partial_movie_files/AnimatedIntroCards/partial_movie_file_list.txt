@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/1584795214_1704227381_223132457.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_1524351635_261595169.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_2574473371_3611137342.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_3162653543_1818902107.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_1432596116_4120436177.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_3345793608_554207670.mp4'
+file 'file:C:/Users/katwa/Documents/aprender/mmanim/projects/media/videos/animated_intro_cards/480p15/partial_movie_files/AnimatedIntroCards/4072820271_1432596116_4182855464.mp4'
